@@ -1,0 +1,19 @@
+GIT 
+Keeps track of code history
+Take snap shot of files
+when to take snapshot 
+
+
+command
+--------
+git init --intialize local repo
+git add --- add file to index
+git status --- check the status of working tree
+git commit --- commit to index
+git push --- Move to remote repository
+git pull --- pull latest from remote repository
+git clone --- clone repositore to new repository
+
+
+
+
